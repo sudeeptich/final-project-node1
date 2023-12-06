@@ -1,0 +1,14 @@
+{
+  "name": "abhinav",
+  "version": "1.0.0",
+  "description": "finalproject",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
